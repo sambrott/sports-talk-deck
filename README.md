@@ -2,6 +2,8 @@
 
 Static **Sports Talk** MVP deck (`sports-talk-deck.html`).
 
+**Mobile:** narrow viewports load `sports-deck-mobile.css` after the main styles. Slides scroll vertically when needed, split layouts stack in one column, grids (personas, features, timeline, marketing) collapse to a single column, and the slide 7 flow becomes a vertical step list with connectors hidden. Controls use larger touch targets and respect safe-area insets. Open the same URL on a phone or resize the browser.
+
 ## If `https://<user>.github.io/sports-talk-deck/` shows 404
 
 1. In the repo on GitHub: **Settings → Pages**.
